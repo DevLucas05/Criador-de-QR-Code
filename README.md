@@ -34,21 +34,14 @@ O usuário pode inserir um link, texto ou informações personalizadas e gerar u
 
 ---
 
-## ⚙️ Como Executar o Projeto Localmente
+Futuras Melhorias: 
+  - Versão Mobile com layout responsivo.
+  - Opção de download direto do QR Code.
+  - Salvamento de Histórico do Usuário.
+  - Deploy completo como aplicativo Android.
 
-### 1. Clone o repositório
-```bash
-git clone https://github.com/seuusuario/qr-code-generator.git
-cd qr-code-generator
 
 
-📱 Futuras Melhorias
 
-Versão mobile com layout responsivo
 
-Opção de download direto do QR Code
-
-Salvamento de histórico do usuário
-
-Deploy completo como aplicativo Android (usando BeeWare ou Kivy)
 
